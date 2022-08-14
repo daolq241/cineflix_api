@@ -1,4 +1,4 @@
-package com.example.cineflix_api.entity.repository;
+package com.example.cineflix_api.repository;
 
 import java.util.List;
 
