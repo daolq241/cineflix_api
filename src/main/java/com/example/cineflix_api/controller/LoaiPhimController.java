@@ -1,4 +1,4 @@
-package com.example.cineflix_api.entity.controller;
+package com.example.cineflix_api.controller;
 
 import java.util.List;
 

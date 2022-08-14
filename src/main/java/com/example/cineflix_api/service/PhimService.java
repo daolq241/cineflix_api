@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.cineflix_api.entity.Phim;
-import com.example.cineflix_api.entity.repository.PhimRepository;
+import com.example.cineflix_api.repository.PhimRepository;
 
 @Service
 @Transactional
